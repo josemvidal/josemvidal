@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I oversee the UofSC [CSE Capstone course](https://capstone.cse.sc.edu/)
+
 <!--
 **josemvidal/josemvidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
