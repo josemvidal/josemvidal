@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm José! 👋
 
 - I oversee the UofSC [CSE Capstone course](https://capstone.cse.sc.edu/)
 
