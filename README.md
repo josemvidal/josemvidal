@@ -2,8 +2,7 @@
 
 - I oversee the UofSC [CSE Capstone course](https://capstone.cse.sc.edu/)
 - I have a [youtube channel](https://www.youtube.com/channel/UCPRGFaBrWC5pknqe6WkTCqw) with coding tutorials
-- 🌱 I’m currently learning how to [do leetcode problems](https://leetcode.com/josemvidal/)
-
+  
 <!--
 **josemvidal/josemvidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
