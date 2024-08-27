@@ -1,6 +1,6 @@
 ### Hi there, I'm José! 👋
 
-- I oversee the UofSC [CSE Capstone course](https://capstone.cse.sc.edu/)
+- I oversee the USC [CSE Capstone course](https://capstone.cse.sc.edu/)
 - I have a [youtube channel](https://www.youtube.com/channel/UCPRGFaBrWC5pknqe6WkTCqw) with coding tutorials
   
 <!--
